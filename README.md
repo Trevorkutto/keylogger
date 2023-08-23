@@ -27,7 +27,7 @@ Key loggers are activity-monitoring software programs that give hackers access t
 8. Cryptography
 9. Twilio
 ```
-## Why pyKeylogger?
+## Why tho?
 
 - It will broaden the way of thinking of researchers about how we can innovate the key loggers.
 - It will help identify the loopholes in the current anti key loggers software.
