@@ -31,7 +31,7 @@ Key loggers are activity-monitoring software programs that give hackers access t
 
 - It will broaden the way of thinking of researchers about how we can innovate the key loggers.
 - It will help identify the loopholes in the current anti key loggers software.
-- Multi software hack: pyKeylogger is packed with many modules to make it more advance than traditional keyloggers.
+- Multi software hack: keylogger is packed with many modules to make it more advance than traditional keyloggers.
 
 #### Capable of deleting all the records after sending them to the remote server.
 <p align="center">
@@ -57,4 +57,4 @@ It will generate the encryption key. Paste this key into `DecryptFile.py` & `Key
 ```
 >>> python Keylogger.py
 ```
-You will see that new files are generating on their own. Watch Demonstration of the project [Here](https://www.youtube.com/watch?v=upWCYSoyOt8).
+
